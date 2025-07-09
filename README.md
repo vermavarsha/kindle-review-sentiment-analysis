@@ -43,7 +43,7 @@ A machine learning web application that classifies book reviews from the Amazon 
 | Recall     | 0.78–0.88 |
 | F1-Score   | 0.82–0.84 |
 
-✅ Balanced performance on both classes (`Positive`, `Negative`)
+✅ Balanced performance on both classes (`Positive`, `Negative`, `Neutral`)
 
 ---
 

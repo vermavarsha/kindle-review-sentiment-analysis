@@ -48,14 +48,13 @@ A machine learning web application that classifies book reviews from the Amazon 
 ---
 
 ## 📁 Project Structure
-📦 kindel-review-sentiment-analysis/
-│
-├── app.py # Streamlit app interface
-├── text_utils.py # Preprocessing and vectorizer
-├── xgboost_model_smote.pkl # Trained XGBoost model
-├── word2vec_model.model # Trained Word2Vec model
-├── requirements.txt # App dependencies
-└── README.md # This file
+kindle-review-sentiment-analysis/
+├── app.py                    # Streamlit app interface
+├── text_utils.py            # Preprocessing (cleaning + Word2Vec vectorizer)
+├── xgboost_model_smote.pkl  # Trained XGBoost classifier with SMOTE
+├── word2vec_model.model     # Trained Word2Vec model
+├── requirements.txt         # Python dependencies for the app
+└── README.md                # Project overview and usage instructions
 
 
 ---

@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+gensim
+xgboost
+nltk
+joblib
+lxml
+bs4

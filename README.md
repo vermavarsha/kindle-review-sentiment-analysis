@@ -64,6 +64,7 @@ kindle-review-sentiment-analysis/
 ### 1. Clone the repo
 
 git clone https://github.com/vermavarsha/kindle-review-sentiment-analysis.git
+
 cd kindle-review-sentiment-analysis
 
 ### 2.Install dependencies

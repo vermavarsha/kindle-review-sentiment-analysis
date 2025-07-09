@@ -6,7 +6,7 @@ A machine learning web application that classifies book reviews from the Amazon 
 
 ## 🚀 Demo
 
-👉 Try it live: [Streamlit App](https://your-streamlit-app-link-here)
+👉 Try it live: [Streamlit App](https://kindle-review-sentiment-analysis-7qngdxfqylk6relirfbb8t.streamlit.app/)
 
 ---
 
